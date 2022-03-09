@@ -1,0 +1,2 @@
+# single-vendor
+single vendor
